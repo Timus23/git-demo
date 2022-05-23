@@ -22,3 +22,7 @@ void login() {
   print("Loginin------");
   print("Login completed");
 }
+
+void logout() {
+  print("Logout implemented");
+}
