@@ -17,3 +17,8 @@ void multiply(int val1, int val2) {
 void subtract(int value1, int value2) {
   print(value1 - value2);
 }
+
+void login() {
+  print("Loginin------");
+  print("Login completed");
+}
